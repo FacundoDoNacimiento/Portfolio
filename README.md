@@ -12,12 +12,8 @@ Tester en formación, con capacidad de adaptación a contextos distintos, trabaj
 
 
 * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
-  * [Casos de Prueba](## Mi trabajo
-Aquí puedes mostrar lo que ha sido tu trabajo como tester, publicando las diferentes entregas del taller, o trabajos de testing que hayas desarrollado por tu cuenta. Por ejemplo:
-
-* [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
-  * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1YuzuQBtpkicx9QjoNPeRafTh5SX-sE8i)
-  * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1Y2IfX8plkKe9kDrtv0B0tfbvMQZhV7Pv)
-  * [Informe de pruebas](https://docs.google.com/document/d/1VP4W9pzRynxyccHLQNZ5z3NKUZSpJk4g))
-  * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1Y2IfX8plkKe9kDrtv0B0tfbvMQZhV7Pv)
-  * [Informe de pruebas](https://docs.google.com/document/d/1VP4W9pzRynxyccHLQNZ5z3NKUZSpJk4g)
+ 
+  * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1iMEJwCo4JMNY8E_bJcPt27sHY_drxgdj/edit#gid=1914919238)
+  * [Gestión de incidentes](https://docs.google.com/spreadsheets/d/1Yswf17brakKNRX0mvrQGVCiZEsGH-PgX/edit#gid=1289981371)
+  * [Informe de pruebas](https://docs.google.com/document/d/1Il4-PqcwXcun1mMWIGB-9mmg-FNuEjRy/edit#heading=h.gjdgxs)
+ 
