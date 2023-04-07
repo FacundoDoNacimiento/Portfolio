@@ -3,15 +3,16 @@
 Tester en formación y desarrollador web junior, con capacidad de adaptación a contextos distintos, trabajo en equipo, comunicación, flexibilidad y sobre todo un gran interés en el mundo TI y en tener un aprendizaje continuo del mismo.
 ## Cursos
 * **Tester de Software - Jóvenes a Programar (230hs):**
-
-
   Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
-## Herramientas
+* **Desarrollo web - Udemy(70hs)**
+
+ 
+## Herramientas en Testing:
 * MantisBT
 * Jira
 
 
-## Desarrollo web - Udemy(70hs):
+## Desarrollo web - Conocimientos:
 * HTML
 * CSS
 * Boostrap
