@@ -10,7 +10,8 @@ Tester en formación y desarrollador web junior, con capacidad de adaptación a 
 * MantisBT
 * Jira
 
-* **Desarrollo web - Udemy(70hs):**
+
+## Desarrollo web - Udemy(70hs):
 * HTML
 * CSS
 * Boostrap
